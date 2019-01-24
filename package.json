@@ -1,0 +1,19 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Lista de compras usando a stack MERN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgckruger/mern.git"
+  },
+  "author": "João G. C. Krüger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgckruger/mern/issues"
+  },
+  "homepage": "https://github.com/jgckruger/mern#readme"
+}
